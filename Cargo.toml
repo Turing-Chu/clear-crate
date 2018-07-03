@@ -1,0 +1,8 @@
+[package]
+name = "clear-crate"
+version = "0.1.0"
+authors = ["Turing Zhu <qishiwenjun@163.com>"]
+
+[dependencies]
+semver = { git = "https://github.com/steveklabnik/semver.git" }
+
